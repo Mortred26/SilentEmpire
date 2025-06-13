@@ -5,29 +5,29 @@
 
 ---
 
-## 📦 Yuklab Olish
+## 📦 Download
 
-Google Drive orqali quyidagi .OVA formatdagi fayllarni yuklab olishingiz mumkin:
+You can download the following .OVA files via Google Drive:
 
-🔗 **[MarketPulse Domain Controller (DC01)](https://drive.google.com/your-marketpulse-dc01-url)**  
-🔗 **[Vidzor Domain Controller (DC02)](https://drive.google.com/your-vidzor-dc02-url)**
+🔗 **[Domain Controller (DC01)](https://drive.google.com/your-marketpulse-dc01-url)**  
+🔗 **[Domain Controller (DC02)](https://drive.google.com/file/d/17-Y0vgQqDl-tc-H0PhQrHnBslnyl0uXq/view?usp=sharing)**
 
-> ⚠️ Har bir OVA VirtualBox yoki VMware orqali ochiladi.
+> ⚠️ Each OVA file can be opened with VirtualBox or VMware.
 
 ---
 
-## ⚙ Texnik Talablar
+## ⚙ System Requirements
 
-- RAM: 6 GB+ (3GB har bir VM uchun)
-- CPU: 2 cores+
-- VirtualBox yoki VMware
+- RAM: 6 GB+ (3 GB for each VM)
+- CPU: 2 cores or more
+- VirtualBox or VMware
 - Kali Linux / Parrot OS
 
 ---
 
-## 🚀 Foydalanish Qo‘llanmasi (Quick Start)
+## 🚀 Quick Start Guide
 
-1. `.ova` fayllarni VirtualBox yoki VMware’da import qiling.
-2. Har ikkala VM’ni yoqing:
-3. DC01 ni ipsini toping
-4. DC02 ga portforwarding qilishingiz kerak
+1. Import the `.ova` files into VirtualBox or VMware.
+2. Start both virtual machines.
+3. Identify the IP address of DC01.
+4. You need to configure port forwarding for DC02.
